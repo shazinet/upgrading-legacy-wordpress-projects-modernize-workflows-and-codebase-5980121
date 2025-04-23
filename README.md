@@ -1,3 +1,3 @@
 # Git Workflow
 
-Hello world
+Hello beautiful world
